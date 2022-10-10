@@ -12,7 +12,8 @@
 3. Show all running containers
     
     ```docker ps```
-    a. Kill and remove running container
+
+4. Kill and remove running container
     
      ```docker rm <containerid> -f ```
 
