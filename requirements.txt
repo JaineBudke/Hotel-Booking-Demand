@@ -1,0 +1,4 @@
+# This file may be used to create an environment using:
+scikit-learn >=0.19.1
+pandas >= 1.0.5
+flask >= 1.0.2
